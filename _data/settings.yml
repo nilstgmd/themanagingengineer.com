@@ -1,6 +1,6 @@
 basic_settings:
   site_title: The Managing Engineer
-  site_tagline: My Stories of moving from Software Engineer to Engineering Manager.
+  site_tagline: Stories moving from Software Engineer to Manager.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -12,8 +12,7 @@ menu_settings:
   menu_items:
     - title: 'Blog'
       url: '/'
-#    - title: 'Projects'
-#      url: '/projects/'
+
     - title: 'About'
       url: '/about'
     - title: 'Contact'
