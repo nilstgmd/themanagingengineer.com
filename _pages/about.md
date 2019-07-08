@@ -1,35 +1,43 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+title: About This Blog
+subtitle: Stories moving from Software Engineer to Manager.
+description: Stories moving from Software Engineer to Manager.
+featured_image: /images/index-feature.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/profile.jpg)
 
-## Features
+Thanks for visiting this blog.
 
-Journal is packed with powerful features to showcase your work:
+## About Me
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+I'm Nils, a computer scientist based in Hamburg, Germany. I love photography and nerd stuff. I hate cables on my desk, but accept them if connected to my mechanical keyboard. I drive a fast car, but most of the time really slow. I consider myself a sports person, never managed to be exceptionally well at it though.
 
-## Get Index
+## Why This Blog
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
+There are managing blogs, books, and all kind of tools to become a great manager. All of them assume a certain environment, which is different to all of us.
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+This blog is my personal story of becoming an engineering manager. This is my journal of a lot of firsts, a lot of questions I ask myself, a lot of struggle I will experience. Writing my thoughts down at least once a week should help me reflecting on what is happening, while provide an inside view to readers who may experience similar situations as well.
+
+All opinions here are my own. If you disagree with them, that's fine and I'm happy to know your point of view. If you like them, make sure to share them.
+
+## Books I Read
+<style type="text/css" media="screen">
+        .gr_grid_container {
+          /* customize grid container div here. eg: width: 500px; */
+          max-width: 75%;
+          margin-top: 40px;
+          margin-left: auto;
+        margin-right: auto;
+        }
+
+        .gr_grid_book_container {
+          /* customize book cover container div here */
+          float: left;
+          width: 39px;
+          height: 60px;
+          padding: 0px 0px;
+          overflow: hidden;
+        }
+</style>
+<script src="https://www.goodreads.com/review/grid_widget/82847864?cover_size=&hide_link=&hide_title=true&num_books=50&order=&shelf=&sort=&widget_id=1562360884" type="text/javascript" charset="utf-8"></script>
